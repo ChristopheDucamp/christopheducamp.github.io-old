@@ -12,7 +12,7 @@ Je reste joignable sur twitter : <span rel="me" class="h-card">[@xtof_fr](https:
 
 ## À propos de ce site
 
-Première installation avec le thème de base de Jekyll. L'idée : accompagner mes enfants et amis sur l'indieweb. Sur cette branche (sous-domaine de ducamp.me), je repars de zéro pour apprendre la motorisation de sites statiques sous la bienveillance de la [communauté francophone jamstatic](http://jamstatic.fr) et de la [communauté indieweb](https://indieweb.org/). 
+Première installation avec le thème de base de Jekyll. L'idée : accompagner mes enfants et amis sur l'indieweb. Sur cette branche (un sous-domaine de ducamp.me), je repars de zéro pour apprendre la motorisation de sites statiques sous la bienveillance de la [communauté francophone jamstatic](http://jamstatic.fr) et de la [communauté indieweb](https://indieweb.org/). 
 
 
 ### Champs d'intérêts et explorations professionnelles : 
