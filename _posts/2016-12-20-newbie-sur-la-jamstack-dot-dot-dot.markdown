@@ -14,6 +14,8 @@ layout: post
 
 Sous le regard bienveillant de <span class="h-card">[Bertrand Keller](https://bertrandkeller.info/)</span>, je délaisse momentanément [mes recherches d'activation de certificats SSL sur Gandi](http://ducamp.me/2016-355)... 
 
+![Netlify-UI.png](/uploads/Netlify-UI.png)
+
 Premiers pas dans l'interface-utilisateur de [Netlify](http://netlify.com/) pour m'essayer à la [JAMstack](http://jamstack.org/fr/) en 2017...
 
 >  La <dfn>JAMstack</dfn> est une manière idéale de bâtir des sites et des applications web performants, sécurisés et simples à mettre à jour.
