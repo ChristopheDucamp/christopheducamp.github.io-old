@@ -20,4 +20,10 @@ Premiers pas dans l'interface-utilisateur de [Netlify](http://netlify.com/) pour
 
 Premier bénéfice escompté à cette heure : dire [adieu au protocole FTP](https://fr.wikipedia.org/wiki/File_Transfer_Protocol)...
 
-Très envie d'apprendre ce monde merveilleux durant les fêtes... 
+## paramétrage technique dans l'interface chez Gandi (nom de domaine)
+
+Remplacé dans l'interface de réglages DNS  `christophe 10800 IN CNAME christopheducamp.github.io.` par `christophe IN A 104.198.14.52` 
+
+Plus qu'à attendre la propagation pour m'essayer à l'installation d'un SSL, aux plugins jekyll et ajouter les services workers dans Netlify.
+
+Très envie d'apprendre ce monde merveilleux durant les fêtes... Merci Bertrand.
