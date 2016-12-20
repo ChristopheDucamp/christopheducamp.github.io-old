@@ -9,13 +9,10 @@ collections:
     title: Uploads
     output: true
 email: christophe@ducamp.me
-description: 'Un premier pas pour étudier la configuration d''un site statique hébergé
-  sur Github Pages.  Intention : apprendre à configurer un site personnel pour mes
-  enfants et amis.
-
-'
+description: "Un premier pas pour étudier la configuration d'un site statique avec l'appui de la communauté JamStatic. Apprendre à configurer un site personnel pour mes
+  enfants et amis. Explorer les interfaces-utilisateur mobiles."
 baseurl: 
-url: http://christophe.ducamp.me
+url: https://christophe.ducamp.me
 twitter_username: xtof_fr
 github_username: ChristopheDucamp
 markdown: kramdown
