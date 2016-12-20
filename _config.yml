@@ -9,8 +9,9 @@ collections:
     title: Uploads
     output: true
 email: christophe@ducamp.me
-description: "Un premier pas pour étudier la configuration d'un site statique avec l'appui de la communauté JamStatic. Apprendre à configurer un site personnel pour mes
-  enfants et amis. Explorer les interfaces-utilisateur mobiles."
+description: Un premier pas pour étudier la configuration d'un site statique avec
+  l'appui de la communauté JamStatic. Apprendre à configurer un site personnel pour
+  mes enfants et amis. Explorer les interfaces-utilisateur mobiles.
 baseurl: 
 url: https://christophe.ducamp.me
 twitter_username: xtof_fr
