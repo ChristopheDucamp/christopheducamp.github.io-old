@@ -7,14 +7,13 @@ tags:
 - netlify
 - DNS
 - sous-domaine
+- formation
 layout: post
 ---
 
 ![Roadmap - jamstatic-fr 2016-12-20.png](/uploads/Roadmap%20-%20jamstatic-fr%202016-12-20.png)
 
 Sous le regard bienveillant de <span class="h-card">[Bertrand Keller](https://bertrandkeller.info/)</span>, je délaisse momentanément [mes recherches d'activation de certificats SSL sur Gandi](http://ducamp.me/2016-355)... 
-
-![Netlify-UI.png](/uploads/Netlify-UI.png)
 
 Premiers pas dans l'interface-utilisateur de [Netlify](http://netlify.com/) pour m'essayer à la [JAMstack](http://jamstack.org/fr/) en 2017...
 
@@ -39,3 +38,8 @@ Plus qu'à attendre la propagation des DNS (quelques heures) pour m'essayer à l
 Très envie d'apprendre ce monde merveilleux durant les fêtes.
 
 Merci Bertrand.
+
+## Prochaines étapes
+
+* Apprendre quelques lignes de commande : [Netlify builds, deploys, and hosts your front end.](https://www.netlify.com/docs/)
+* Essayer un site avec Hugo : [New to JAMstack ? How to make a site from A to Z](https://www.netlify.com/blog/2016/11/15/new-to-jamstack-how-to-make-a-site-from-a-to-z/)
