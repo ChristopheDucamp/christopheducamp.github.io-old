@@ -5,6 +5,8 @@ tags:
 - jamstack
 - jamstatic
 - netlify
+- DNS
+- sous-domaine
 layout: post
 ---
 
@@ -23,6 +25,8 @@ Premier bénéfice escompté à cette heure : dire [adieu au protocole FTP](http
 ## Paramétrage technique dans l'interface chez Gandi (nom de domaine)
 
 Parcouru rapidement la [notice officielle de configuration d'un sous-domaine](https://www.netlify.com/docs/custom-domains/) que j'étudierai plus tard. 
+
+![Netlify-dns-records.png](/uploads/Netlify-dns-records.png)
 
 À cette heure, j'ai simplement remplacé une ligne dans l'interface-utilisateur de réglages DNS chez Gandi  :
 
