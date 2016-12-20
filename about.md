@@ -25,7 +25,7 @@ Non développeur, j'apprends ici quelques rudiments de code et mon exploration s
 
 
 ### Technique 
-Ce site est actuellement hébergé chez GitHub Pages via un pointage de DNS du sous-domaine chez Gandi.
+Ce site (sous-domaine de ducamp.me) a été amorcé chez GitHub Pages. Il est en [cours de migration sur le CDN Netlify](/2016/12/20/newbie-sur-la-jamstack-dot-dot-dot) par un pointage de DNS du sous-domaine chez Gandi.
 
 Vous pouvez trouver plus d'infos sur la personnalisation de votre thème Jekyll, tout comme une documentation sur l'usage de Jekyll sur [jekyllrb.com](http://jekyllrb.com/)
 
