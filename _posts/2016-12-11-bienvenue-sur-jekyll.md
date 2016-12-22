@@ -1,6 +1,6 @@
 ---
 title: Retour sur Jekyll !
-date: 2016-12-11 05:57:17 Z
+date: 2016-12-11 06:57:00 +01:00
 categories:
 - jekyll
 - update
@@ -25,10 +25,11 @@ print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
 
-Pour plus d'informations, regarder la [doc de Jekyll docs][jekyll-docs]. 
+Pour plus d'informations, regardez la [documentation de Jekyll][jekyll-docs]. 
 
-Si vous avez des questions, vous pouvez les poser sur  [Jekyll Talk][jekyll-talk].
+Si vous avez des questions, vous pouvez les poser sur [Jekyll Talk][jekyll-talk] ou rejoindre la [communauté jamstatic][jamstactic].
 
 [jekyll-docs]: http://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
+[jamstactic]: https://jamstatic.fr/
