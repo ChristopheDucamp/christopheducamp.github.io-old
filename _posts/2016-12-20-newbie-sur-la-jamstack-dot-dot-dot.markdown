@@ -44,9 +44,11 @@ Merci Bertrand.
 
 (Edit) Tout étant parfaitement fonctionnel avec le pointage d'enregistrement A mentionné plus haut, je suis en train d'apprendre quelques [fondamentaux de sécurité et ce qu'il y a dans un CNAme](https://draftin.com/documents/974273?token=OPbK4C9757Jx6sDPqdgtyfPUo4LGvpq2Uy-T3u3dn9qToVbpDkf98RyNmu94LHmfQQQeOa0MuYBWs_JMTXgB87c). 
 
-Parti pour un nouvel essai en cours de pointage d'un CName chez Gandi. (À valider dès propagation de DNS.)  
+Parti pour un nouvel essai en cours de pointage d'un CName chez Gandi. Pour le sous-domaine `christophe`, je viens de remplacér la ligne de l'enregistrement A mentionnée plus haut par ce qui suit. 
 
 ![Gandi-CNAME-christophe.png](/uploads/Gandi-CNAME-christophe.png)
+
+À valider dès propagation de DNS...
 
 
 ## Prochaines étapes
