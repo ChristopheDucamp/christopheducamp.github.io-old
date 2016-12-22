@@ -41,14 +41,15 @@ Merci Bertrand.
 
 ## Finalisation paramétrages DNS
 
-Tout étant parfaitement fonctionnel avec le pointage d'enregistrement A, je suis en train d'apprendre quelques [fondamentaux de sécurité et ce qu'il a dans un C(NAme)](https://draftin.com/documents/974273?token=OPbK4C9757Jx6sDPqdgtyfPUo4LGvpq2Uy-T3u3dn9qToVbpDkf98RyNmu94LHmfQQQeOa0MuYBWs_JMTXgB87c). 
+Tout étant parfaitement fonctionnel avec le pointage d'enregistrement A, je suis en train d'apprendre quelques [fondamentaux de sécurité et ce qu'il a dans un C(NAme)](https://draftin.com/documents/974273?token=OPbK4C9757Jx6sDPqdgtyfPUo4LGvpq2Uy-T3u3dn9qToVbpDkf98RyNmu94LHmfQQQeOa0MuYBWs_JMTXgB87c. 
 
 Nouvel essai en cours de pointage d'un CName chez Gandi. À valider dès propagation de DNS.  
 
-[Gandi-CNAME-christophe.png](/uploads/Gandi-CNAME-christophe.png)
+![Gandi-CNAME-christophe.png](/uploads/Gandi-CNAME-christophe.png)
 
 
 ## Prochaines étapes
 
+* [Apprendre à configurer un domaine apex personnalisé sur Netifly](https://draftin.com/documents/972632?token=pgFEOyn2g7cJbYPOqd30MQxLpb_Kj8_Kd9r2KuZvSuNDm7xMpl8VFfY5cfjMFXBVdwBG8PV99-80F4UJPFWbg6A)
 * Apprendre quelques lignes de commande : [Netlify builds, deploys, and hosts your front end.](https://www.netlify.com/docs/)
 * Essayer un site avec Hugo : [New to JAMstack ? How to make a site from A to Z](https://www.netlify.com/blog/2016/11/15/new-to-jamstack-how-to-make-a-site-from-a-to-z/)
