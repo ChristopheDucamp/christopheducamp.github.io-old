@@ -39,6 +39,15 @@ Très envie d'apprendre ce monde merveilleux durant les fêtes.
 
 Merci Bertrand.
 
+## Finalisation paramétrages DNS
+
+Tout étant parfaitement fonctionnel avec le pointage d'enregistrement A, je suis en train d'apprendre quelques [fondamentaux de sécurité et ce qu'il a dans un C(NAme)](https://draftin.com/documents/974273?token=OPbK4C9757Jx6sDPqdgtyfPUo4LGvpq2Uy-T3u3dn9qToVbpDkf98RyNmu94LHmfQQQeOa0MuYBWs_JMTXgB87c). 
+
+Nouvel essai en cours de pointage d'un CName chez Gandi. À valider dès propagation de DNS.  
+
+[Gandi-CNAME-christophe.png](/uploads/Gandi-CNAME-christophe.png)
+
+
 ## Prochaines étapes
 
 * Apprendre quelques lignes de commande : [Netlify builds, deploys, and hosts your front end.](https://www.netlify.com/docs/)
