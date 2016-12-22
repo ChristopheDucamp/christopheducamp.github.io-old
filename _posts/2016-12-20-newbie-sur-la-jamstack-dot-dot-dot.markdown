@@ -39,11 +39,12 @@ Très envie d'apprendre ce monde merveilleux durant les fêtes.
 
 Merci Bertrand.
 
+<span id="CName"></span>
 ## Finalisation paramétrages DNS
 
-Tout étant parfaitement fonctionnel avec le pointage d'enregistrement A, je suis en train d'apprendre quelques [fondamentaux de sécurité et ce qu'il a dans un C(NAme)](https://draftin.com/documents/974273?token=OPbK4C9757Jx6sDPqdgtyfPUo4LGvpq2Uy-T3u3dn9qToVbpDkf98RyNmu94LHmfQQQeOa0MuYBWs_JMTXgB87c. 
+(Edit) Tout étant parfaitement fonctionnel avec le pointage d'enregistrement A, je suis en train d'apprendre quelques [fondamentaux de sécurité et ce qu'il y a dans un CNAme](https://draftin.com/documents/974273?token=OPbK4C9757Jx6sDPqdgtyfPUo4LGvpq2Uy-T3u3dn9qToVbpDkf98RyNmu94LHmfQQQeOa0MuYBWs_JMTXgB87c). 
 
-Nouvel essai en cours de pointage d'un CName chez Gandi. À valider dès propagation de DNS.  
+Parti pour un nouvel essai en cours de pointage d'un CName chez Gandi. (À valider dès propagation de DNS.)  
 
 ![Gandi-CNAME-christophe.png](/uploads/Gandi-CNAME-christophe.png)
 
