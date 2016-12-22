@@ -17,7 +17,7 @@ layout: post
 
 ## Des gens, des lieux, des dates & des rencontres 
 
-<span class="h-card">Craig Eley</span> travaille sur une architecture astucieuse et intéressante pour tenir un journal quotidien. 
+<span class="h-card">Craig Eley</span> travaille sur une architecture astucieuse pour tenir un journal quotidien. 
 
-[Trophy Logbook, un thème intéressant à localiser](https://github.com/ChristopheDucamp/trophy-logbook) pour étudier quelques hacks de Jekyll avant proposition à Lucie d'interfaces-utilisateur mobiles pour étude UX type "carnet de bal 2017". 
+[Trophy Logbook, un thème intéressant à localiser](https://github.com/ChristopheDucamp/trophy-logbook) pour étudier quelques hacks de Jekyll avant proposition à Lucie d'interfaces-utilisateur mobiles pour étude UX type "carnet de bal". 
 
