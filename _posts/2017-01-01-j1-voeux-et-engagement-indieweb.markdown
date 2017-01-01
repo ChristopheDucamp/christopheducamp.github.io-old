@@ -13,6 +13,6 @@ Après avoir produit [quelques premiers engagements raisonnables indieweb](https
 
 De mon côté je retourne à l'essentiel pour m'engager personnellement à poster durant les 100 prochains jours une photo ou un dessin résumant mes pages matinales et points d'amélioration en cours de production. 
 
-À demain et tous mes voeux.
+Si vous voulez nous rejoindre, [prenez connaissance des projets sur la page wiki canonique](https://indieweb.org/100DaysOfIndieWeb) et aidez moi à raffiner la traduction déposée [ici](https://indieweb.org/100DaysOfIndieWeb-fr) pour l'ouverture de nouvelles inscriptions.
 
-Si vous voulez nous rejoindre, inscrivez-vous sur la page wiki que je viens de poser ici.
+À demain et tous mes voeux.
