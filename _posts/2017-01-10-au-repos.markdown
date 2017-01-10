@@ -10,9 +10,9 @@ layout: post
 
 Peu dormi cette nuit, mais apaisé dans mon brainstorming par ces deux invités paisibles qui méritent leurs apps web personnelles. 
 
-![2017-010-easy-canape-sommeil.jpg](/uploads/2017-010-easy-canape-sommeil.jpg) Izy
+![2017-010-easy-canape-sommeil.jpg](/uploads/2017-010-easy-canape-sommeil.jpg "Izy")
 
-<figure>![2017-010-filou.jpg](/uploads/2017-010-filou.jpg) Filou
+<figure>![2017-010-filou.jpg](/uploads/2017-010-filou.jpg "Filou")
 
 Des apps connectées sur le plus grand graphe social de famille. L'architecture et son design de services est en cours de conception et je chronorêve de  démarrer les premiers prototypes fonctionnels en février prochain. 
 
