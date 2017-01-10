@@ -15,7 +15,7 @@ Peu dormi cette nuit, le mental chahuté par le "bon deuil" d'Edgar le lapin et 
 
 ![Albert-Auvers.jpg](/uploads/Albert-Auvers.jpg "Albert")
 
-Apaisé à cette heure par deux invités paisibles qui méritent définitivement leurs apps web personnelles (carnet de vaccination, album photos et autres services à recenser.)
+Apaisé à cette heure par deux hôtes paisibles qui méritent définitivement leurs apps web personnelles (carnet de vaccination, album photos et autres services à recenser.)
 
 ![2017-010-easy-canape-sommeil.jpg](/uploads/2017-010-easy-canape-sommeil.jpg "Izy")
 
@@ -23,6 +23,6 @@ Apaisé à cette heure par deux invités paisibles qui méritent définitivement
 
 J'imagine ces apps connectées sur le plus grand graphe social de famille. L'architecture et le design de services sont en cours de conception. Je chronorêve de démarrer les premiers prototypes fonctionnels en février prochain. 
 
-Je serai absent jusqu'à dimanche pour du repos en famille et des premiers tests d'UI avec Barbara 
-- pour la production de son site web
-- pour construction d'un [photoflow](http://ducamp.me/Photoflow) d'atelier qui soit facile, sans frottements et résistant à la poussière.
+Je serai absent jusqu'à dimanche pour du repos en famille et des premiers tests d'UI avec Barbara : 
+* pour la production de son site web
+* construction d'un [photoflow](http://ducamp.me/Photoflow) d'atelier qui soit facile, sans frottements et résistant à la poussière.
