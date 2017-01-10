@@ -10,7 +10,7 @@ layout: post
 
 Peu dormi cette nuit, mais apaisé dans mon brainstorming par ces deux invités paisibles qui méritent leurs apps web personnelles. 
 
-<figure>![2017-010-easy-canape-sommeil.jpg](/uploads/2017-010-easy-canape-sommeil.jpg)<figcaption>Izy</figcaption></figure>
+!<figure>[2017-010-easy-canape-sommeil.jpg](/uploads/2017-010-easy-canape-sommeil.jpg)<figcaption>Izy</figcaption></figure>
 
 <figure>![2017-010-filou.jpg](/uploads/2017-010-filou.jpg)<figcaption>Filou</figcaption></figure>
 
