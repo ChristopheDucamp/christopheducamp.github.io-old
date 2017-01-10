@@ -1,0 +1,19 @@
+---
+title: Au repos et dans le (photo)flow
+date: 2017-01-10 17:06:00 +01:00
+tags:
+- 100DaysOfPhotos
+layout: post
+---
+
+## Les animaux de la maison
+
+Peu dormi cette nuit, mais apaisé dans mon brainstorming par ces deux invités paisibles qui méritent leurs apps web personnelles. 
+
+<figure>![2017-010-easy-canape-sommeil.jpg](/uploads/2017-010-easy-canape-sommeil.jpg)<figcaption>Izy</figcaption></figure>
+
+<figure>![2017-010-filou.jpg](/uploads/2017-010-filou.jpg)<figcaption>Filou</figcaption></figure>
+
+Des apps connectées sur le plus grand graphe social de famille. L'architecture et son design de services est en cours de conception et je chronorêve de  démarrer les premiers prototypes fonctionnels en février prochain. 
+
+Je serai au repos jusqu'à dimanche pour du repos en famille et décrire un [photoflow](http://ducamp.me/Photoflow) facile et sans frottements pour valider les prototypes avec les clients.
