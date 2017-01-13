@@ -18,7 +18,7 @@ Merci Luc d'être passé et d'avoir réussi à atténuer mes émotions sur ce **
 
 Suis très enthousiaste de notre plan de route à venir. 
 
-Tu trouveras sur ce lien "[Carcassonne. Le combat d'un fils : «Mon père, ce Juste oublié»](http://www.ladepeche.fr/article/2013/01/04/1528691-carcassonne-le-combat-d-un-fils-mon-pere-ce-juste-oublie.html)" la coupure de la Dépêche du Midi résumant le combat de mon oncle Claude pour faire reconnaître son grand-père.
+Tu trouveras sur ce lien "[Carcassonne. Le combat d'un fils : «Mon père, ce Juste oublié»](http://www.ladepeche.fr/article/2013/01/04/1528691-carcassonne-le-combat-d-un-fils-mon-pere-ce-juste-oublie.html)" la coupure de la Dépêche du Midi résumant le magnifique combat personnel de mon oncle Claude vis à vis de son père.
 
 Je te proposerais bien de t'inviter à le rencontrer avec sa femme Jacqueline (héroïne) avec mes frangins chez Barbara. Mon frère Sébastien connaît bien le dossier. Je crois au web, au réseau et à la mémoire bien retranscrite pour faciliter les connexions et la reconnaissance. 
 
