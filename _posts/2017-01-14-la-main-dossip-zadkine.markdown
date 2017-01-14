@@ -6,11 +6,13 @@ tags:
 - zadkine
 - auvers-sur-oise
 - vincent van gogh
+- photowalk
+- photoflow
 ---
 
-Zoom sur la main de la sculpture de Vincent Van Gogh visible dans le parc Van Gogh d'Auvers-sur-Oise réalisée en 1961 par Ossip Zadkine, artiste sculpteur, d'origine russe.
+Zoom sur la main de la sculpture de Vincent Van Gogh visible dans le parc Van Gogh d'Auvers-sur-Oise réalisée en 1961 par [Ossip Zadkine](http://www.zadkine.paris.fr/fr/sa-biographie), artiste sculpteur, d'origine russe.
 
-![zadkine-van-gogh-.jpg](/uploads/zadkine-van-gogh-.jpg)
+<span class="u-photo">![zadkine-van-gogh-.jpg](/uploads/zadkine-van-gogh-.jpg)</span>
 
-Point de départ de "photowalks".
+Un joli point de départ à proposer à vos potes pour vos "photowalks" à 45 minutes de Paris. 
 
