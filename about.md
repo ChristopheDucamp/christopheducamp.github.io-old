@@ -8,7 +8,7 @@ layout: page
 
 Dans la vraie vie, je suis père de famille et entrepreneur indépendant. Ma profession déclarée à l'URSAFF est "conseil en communication", un métier que j'exerce depuis plus de 25 ans. Mes passions en cours évoluent autour du design social urbain et je suis heureux d'accompagner quelques communautés, entrepreneurs et artistes sur leur stratégie numérique.
 
-Je reste joignable sur twitter : <span rel="me" class="h-card">[@xtof_fr](https://twitter.com/7OTX_)</span>
+Je reste joignable sur twitter : <span rel="me" class="h-card">[@7OTX_](https://twitter.com/7OTX_)</span>
 
 ## À propos de ce site
 
