@@ -14,7 +14,7 @@ description: Un premier pas pour étudier la configuration d'un site statique av
   mes enfants et amis. Explorer les interfaces-utilisateur mobiles.
 baseurl: 
 url: https://christophe.ducamp.me
-twitter_username: xtof_fr
+twitter_username: 7OTX_
 github_username: ChristopheDucamp
 markdown: kramdown
 theme: minima
